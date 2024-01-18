@@ -1,8 +1,6 @@
-# Tweet情感分类
+# Semantic Computing and Knowledge Retrieval HW2
 
-语义计算与知识检索 2022春季学期 第二次作业
-
-[TOC]
+fine-tuning Bert on SemEval 2017 Task4: Tweet Sentiment Classification
 
 # 1 实验背景
 
