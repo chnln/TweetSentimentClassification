@@ -1,0 +1,14 @@
+{
+  "file": "semeval_2017_task4_test_trial",
+  "parameter": "bert_nepoch-3_lr-5e-05_bz-16",
+  "0": 0.6840390879478827,
+  "1": 0.7123552123552124,
+  "2": 0.6228571428571429,
+  "test_loss": 0.7432542443275452,
+  "test_AvgRec": 0.673083814386746,
+  "test_Accuracy": 0.688,
+  "test_F1-macro": 0.675299008591272,
+  "test_runtime": 6.5652,
+  "test_samples_per_second": 152.319,
+  "test_steps_per_second": 9.596
+}
